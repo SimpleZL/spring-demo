@@ -6,7 +6,11 @@
 
   <groupId>com.cn.zl</groupId>
   <artifactId>spring-demo</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>jpa</module>
+  </modules>
 
   <name>spring-demo</name>
   <!-- FIXME change it to the project's website -->
